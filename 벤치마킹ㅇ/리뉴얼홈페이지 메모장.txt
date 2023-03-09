@@ -1,10 +1,15 @@
 1. target -> 리뉴얼홈페이지 대상(최소2개)
 (bad homepage)
+★ https://vonschicken.co.kr/main/main.html
+(사이트랑 광고 배너 크기가 다르고 글씨 폰트랑 크기도 다 다른거같다)
+
+★https://www.fedex.com/ko-kr/home.html#
+(구역마다의 글자 그기가 다르고 위치가 맞지가 않다)
 
 
 2.why bad? ->조사,분석(여백,색상,글자,사용편의성)
 ex)글자가 작다
 
 3.개선방향 ->홈페이지가 본인생각해봤을 때 괜찮다고 생각되는 디자인(최소3개)
-
+https://vonschicken.co.kr/main/main.html
 
