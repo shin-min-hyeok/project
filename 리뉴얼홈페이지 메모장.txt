@@ -22,6 +22,18 @@ https://wylie.co.kr/ (와일리)
 -보라계열로 보라색에 하얀폰트가 엄청 잘오울린다 홈페이지가 화면을 다 차지하는데 은근히 
  눈에 더 잘들어온다.
 
+-pull 안될시
+*git 폴더와 하나의 폴더나 텍스트는 남겨두고 모든파일 제거 후 다시 git 파일 만들고 git hub랑 연동하고 pull까지해본다.
+pull이 안될시에 위에  git pull origin 브런치명 --allow-unrelated-histories 입력하면 된다
+입력하면 창이뜨는데 그냥 창을 닫는다 
+
+git init
+git add .
+git commit -m "메세지"
+git remote add origin  깃 허브 주소
+git remote -v 저장소 확인
+git push origin master 
+
 https://www.genesis.com/kr/ko/main.html(제네시스)
 -자동차 홈페이지 사이트로 가만히 보고있어도 자동적으로 차종류들 을 볼수 가 있다.
 아래로 내리면 더 자세히 하나씩 볼수가 있고 오른쪽 상담아이콘이 고정이 되어있어서
