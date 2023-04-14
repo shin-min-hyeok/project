@@ -1,1 +1,6 @@
 pull좀되라 오류안뜨고
+
+
+ refusing to merge unrelated histories 이게뜨면
+
+1. git pull origin 브런치명 --allow-unrelated-histories
