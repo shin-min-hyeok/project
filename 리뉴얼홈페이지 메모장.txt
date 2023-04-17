@@ -34,6 +34,12 @@ git remote add origin  깃 허브 주소
 git remote -v 저장소 확인
 git push origin master 
 
+pull좀되라 오류안뜨고
+
+
+ refusing to merge unrelated histories 이게뜨면
+
+1. git pull origin 브런치명 --allow-unrelated-histories
 https://www.genesis.com/kr/ko/main.html(제네시스)
 -자동차 홈페이지 사이트로 가만히 보고있어도 자동적으로 차종류들 을 볼수 가 있다.
 아래로 내리면 더 자세히 하나씩 볼수가 있고 오른쪽 상담아이콘이 고정이 되어있어서
