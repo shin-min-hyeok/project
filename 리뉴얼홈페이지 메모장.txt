@@ -27,6 +27,8 @@ https://wylie.co.kr/ (와일리)
 pull이 안될시에 위에  git pull origin 브런치명 --allow-unrelated-histories 입력하면 된다
 입력하면 창이뜨는데 그냥 창을 닫는다 
 
+pull이 존나게 안되네 짜증나게에에에에에에ㅔ엥에에에에에에에에에ㅔㅇ
+
 git init
 git add .
 git commit -m "메세지"
