@@ -4,8 +4,8 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\OFL.txt
-FileModTime:1687792469
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\OFL.txt
+FileModTime:1687770290
 %EndFont
 
 %BeginFont
@@ -16,14 +16,15 @@ FamilyName:Playfair Display
 StyleName:Italic
 FullName:Playfair Display Italic
 MenuName:Playfair Display
+FamilyPrefix:PlayfairDisplayItalic
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\PlayfairDisplay-Italic-VariableFont_wght.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\PlayfairDisplay-Italic-VariableFont_wght.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:TrueTypeVariableFont
 FileLength:277356
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -38,14 +39,15 @@ FamilyName:Playfair Display
 StyleName:Regular
 FullName:Playfair Display Regular
 MenuName:Playfair Display
+FamilyPrefix:PlayfairDisplayRoman
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\PlayfairDisplay-VariableFont_wght.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\PlayfairDisplay-VariableFont_wght.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:TrueTypeVariableFont
 FileLength:298268
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -55,8 +57,8 @@ NameArray:0,Win,1,Playfair Display
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\README.txt
-FileModTime:1687792469
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\README.txt
+FileModTime:1687770290
 %EndFont
 
 %BeginFont
@@ -69,12 +71,12 @@ FullName:Playfair Display Black
 MenuName:Playfair Display Black
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-Black.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-Black.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:193036
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:900
 WidthClass:5
 AngleClass:0
@@ -92,12 +94,12 @@ FullName:Playfair Display Black Italic
 MenuName:Playfair Display Black
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-BlackItalic.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-BlackItalic.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:177144
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:900
 WidthClass:5
 AngleClass:1
@@ -115,12 +117,12 @@ FullName:Playfair Display Bold
 MenuName:Playfair Display
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-Bold.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-Bold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:193136
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -137,12 +139,12 @@ FullName:Playfair Display Bold Italic
 MenuName:Playfair Display
 StyleBits:3
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-BoldItalic.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-BoldItalic.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:177660
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:700
 WidthClass:5
 AngleClass:1
@@ -159,12 +161,12 @@ FullName:Playfair Display ExtraBold
 MenuName:Playfair Display ExtraBold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-ExtraBold.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-ExtraBold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:193128
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:800
 WidthClass:5
 AngleClass:0
@@ -182,12 +184,12 @@ FullName:Playfair Display ExtraBold Italic
 MenuName:Playfair Display ExtraBold
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-ExtraBoldItalic.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-ExtraBoldItalic.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:177700
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:800
 WidthClass:5
 AngleClass:1
@@ -205,12 +207,12 @@ FullName:Playfair Display Italic
 MenuName:Playfair Display
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-Italic.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-Italic.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:177224
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:400
 WidthClass:5
 AngleClass:1
@@ -227,12 +229,12 @@ FullName:Playfair Display Medium
 MenuName:Playfair Display Medium
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-Medium.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-Medium.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:193220
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:500
 WidthClass:5
 AngleClass:0
@@ -250,12 +252,12 @@ FullName:Playfair Display Medium Italic
 MenuName:Playfair Display Medium
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-MediumItalic.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-MediumItalic.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:177724
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:500
 WidthClass:5
 AngleClass:1
@@ -273,12 +275,12 @@ FullName:Playfair Display Regular
 MenuName:Playfair Display
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-Regular.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:192812
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -295,12 +297,12 @@ FullName:Playfair Display SemiBold
 MenuName:Playfair Display SemiBold
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-SemiBold.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-SemiBold.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:193272
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:600
 WidthClass:5
 AngleClass:0
@@ -318,12 +320,12 @@ FullName:Playfair Display SemiBold Italic
 MenuName:Playfair Display SemiBold
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\user\OneDrive\바탕 화면\신민혁(학원파일)\리디자인 프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-SemiBoldItalic.ttf
+OutlineFileName:D:\신민혁\리디자인프로젝트\프로필 디자인\Font\PlayfairDisplay\static\PlayfairDisplay-SemiBoldItalic.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:177796
-FileModTime:1687792469
+FileModTime:1663824430
 WeightClass:600
 WidthClass:5
 AngleClass:1
